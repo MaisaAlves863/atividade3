@@ -1,0 +1,44 @@
+body { 
+    font-size: 16px; 
+    font-family: Arial, sans-serif; 
+    background: linear-gradient(to bottom, 
+    #b3cce2, #D9CCC1); 
+    } 
+    
+    h1 { 
+    font-size: 3rem; 
+    letter-spacing: 0.5rem; 
+    text-align: center; 
+    background-color: #005eb0; 
+    color: #D9CCC1; 
+    margin: 0; 
+    padding: 10px; 
+    } 
+    
+    h2 { 
+    font-size: 1.5rem; 
+    color: #005eb0; 
+    } 
+     
+    p{ 
+    } 
+    font-size: 1rem; color: #024059; 
+    line-height: 1.5; 
+    text-align: justify; 
+    
+    blockquote { 
+    font-family: "Courier New", Courier, 
+    monospace; 
+    font-size: 1rem; 
+    color: neon; 
+    line-height: 1.5; 
+    text-align: justify; 
+    } 
+     
+    p.autor { 
+    text-align: right; 
+    font-style: italic; 
+    color: darkslategrey; 
+    font-size: 0.8rem; 
+    } 
+    
